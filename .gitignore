@@ -1,0 +1,11 @@
+#ignore log files
+*.log
+
+#ignore db files
+*.db
+
+#ignore target directory
+[Tt]arget/
+
+#ignore bin directory
+[Bb]in/
